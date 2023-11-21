@@ -1,4 +1,4 @@
-# Unlocking-the-Power-of-Multifactor-Authentication-Strengthening-Company-Security-
+# Unlocking the Power of Multifactor Authentication Strengthening Company Security
 
  ## Introduction 
 
