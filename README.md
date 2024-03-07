@@ -82,7 +82,7 @@ Implementing MFA offers numerous advantages for companies:
 
 ## ECCENTRIX Certified Network Defender (CND) Training 
 
-The Certified Network Defender (CND) is a comprehensive training program offered by ECCENTRIX. The CND covers a wide range of cybersecurity topics, including MFA implementation, to help organizations and professionals enhance their cybersecurity skills and protect their digital assets. With ECCENTRIX's CND training, participants gain the knowledge and expertise necessary to effectively implement MFA and other cybersecurity best practices. 
+The [Certified Network Defender (CND)](https://www.eccentrix.ca/en/courses/cybersecurity-and-cyberdefense/certified-network-defender-cndv2-ec6156) is a comprehensive training program offered by ECCENTRIX. The CND covers a wide range of cybersecurity topics, including MFA implementation, to help organizations and professionals enhance their cybersecurity skills and protect their digital assets. With ECCENTRIX's CND training, participants gain the knowledge and expertise necessary to effectively implement MFA and other cybersecurity best practices. 
 
 ## Conclusion 
 
